@@ -48,3 +48,8 @@ Aspiring Data Analyst
 ⭐ Project Purpose
 
 Created as a portfolio project to demonstrate practical data analytics and Power BI dashboard development skills.
+
+## Dashboard Preview
+
+![E-commerce Dashboard]
+(Ecommerce_Dashboard.png)
