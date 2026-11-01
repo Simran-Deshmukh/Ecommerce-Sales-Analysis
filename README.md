@@ -51,5 +51,4 @@ Created as a portfolio project to demonstrate practical data analytics and Power
 
 ## Dashboard Preview
 
-![E-commerce Dashboard]
-(Ecommerce_Dashboard.png)
+![E-commerce Dashboard](Ecommerce_Dashboard.png)
